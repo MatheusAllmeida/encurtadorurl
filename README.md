@@ -12,9 +12,15 @@ Este é um simples **encurtador de links** feito em Python usando **Tkinter** pa
 
 1. Certifique-se de ter Python instalado (recomenda-se Python 3.8+).  
 2. Instale a biblioteca `requests` se ainda não tiver:
-
 ```bash
 pip install requests
 ```
+
+3. Execute o arquivo:
+```bash
+python encurtador.py
+```
+
 4. Digite a URL que deseja encurtar e clique em Encurtar.
 5. Para copiar, clique no botão Copiar.
+
