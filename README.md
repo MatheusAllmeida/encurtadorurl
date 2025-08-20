@@ -15,3 +15,6 @@ Este é um simples **encurtador de links** feito em Python usando **Tkinter** pa
 
 ```bash
 pip install requests
+```
+4. Digite a URL que deseja encurtar e clique em Encurtar.
+5. Para copiar, clique no botão Copiar.
